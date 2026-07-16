@@ -1,4 +1,4 @@
-#  sleep-quality-academic-performance-analysis
+#  Sleep-Quality-Academic-Performance-Analysis
 ##  Project Overview
 
 This project was developed as part of a university research study to investigate how sleep quality, sleep deprivation, stress levels, and study habits influence academic performance among university students.
